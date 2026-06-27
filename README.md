@@ -95,6 +95,13 @@ npm run build
 | Firefox | ✅ UI + Code Gen (no Web Serial) |
 | Safari | ✅ UI + Code Gen (no Web Serial) |
 
+### Screenshots
+
+| Chinese | English |
+|---------|---------|
+| [![Main Page](public/screenshots/zh-main.png)](public/screenshots/zh-main.png) | [![Main Page](public/screenshots/en-main.png)](public/screenshots/en-main.png) |
+| [![Flash Page](public/screenshots/zh-flash.png)](public/screenshots/zh-flash.png) | [![Flash Page](public/screenshots/en-flash.png)](public/screenshots/en-flash.png) |
+
 ### License
 
 MIT
@@ -189,6 +196,13 @@ npm run build
 | Chrome / Edge | ✅ 全部功能（含 Web Serial + Web Bluetooth） |
 | Firefox | ✅ UI + 代码生成（无 Web Serial） |
 | Safari | ✅ UI + 代码生成（无 Web Serial） |
+
+### 截图
+
+| 中文 | English |
+|------|---------|
+| [![主页面](public/screenshots/zh-main.png)](public/screenshots/zh-main.png) | [![Main Page](public/screenshots/en-main.png)](public/screenshots/en-main.png) |
+| [![烧录页面](public/screenshots/zh-flash.png)](public/screenshots/zh-flash.png) | [![Flash Page](public/screenshots/en-flash.png)](public/screenshots/en-flash.png) |
 
 ### 开源协议
 
